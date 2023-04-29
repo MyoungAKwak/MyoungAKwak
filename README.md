@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <h2 align="left">🛠️ Skills</h2>
 <p align="left">
+ <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-JSP-007396?logo=java&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-MyBatis-FF6F52?logo=mybatis&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat">
+
 </p>
 <p align="left">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-Tiles-3FBFBF?logo=apache&logoColor=white&style=flat">
 </p>
 <p align="left">

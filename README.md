@@ -1,10 +1,6 @@
 
 ### <h3 align="center"> Hi! I'm MyoungA 👋 </h3>
-
-<h3 align="center"> I'm studying web development. </h3>
-
 <br>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 

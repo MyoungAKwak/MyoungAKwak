@@ -30,7 +30,7 @@
 </p>
 <br>
 
-<h3 align="center">📚 Education 📚</h3>
+<h3 align="center">📚 Experience 📚</h3>
 <p align="center"> 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
   2022.10 - 2023.03
 </p>

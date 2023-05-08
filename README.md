@@ -1,12 +1,20 @@
 
 ### <h3 align="center"> Hi! I'm MyoungA 👋 </h3>
 <br/>
+
 <div align="center">
 <h3 align="center">📌 my study space 📌</h3>
-<a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>   
+
+
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> [Study Link](https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152)
+
+  
+<!-- 
+<a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>   
+<br/> -->
 <br/>
   
-
+  
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 

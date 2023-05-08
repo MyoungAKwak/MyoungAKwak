@@ -2,14 +2,14 @@
 ### <h3 align="center"> Hi! I'm MyoungA 👋 </h3>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</br>
+<br>
 
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Tiles-F7DF1E?style=for-the-badge&logo=Tiles&logoColor=black">
-</br>
+<br>
 
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -27,9 +27,12 @@
 <br>
 
 <h3 align="center">📚 Experience 📚</h3>
-<p align="center"> 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
+대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
   2022.10 - 2023.03
-</p>
+
+<h3 align="center">💜 contact to me 💜</h3>
+<a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kwma0820@gmail.com)
 
 
-https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152
+</div>

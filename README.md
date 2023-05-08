@@ -5,7 +5,7 @@
 
 <br>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -27,5 +27,11 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+</p>
+<br>
+
+<h3 align="center">📚 Education 📚</h3>
+<p align="center"> 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
+  2022.10 - 2023.03
 </p>
 

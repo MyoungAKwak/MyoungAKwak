@@ -26,11 +26,13 @@
 </p>
 <br/>
 
-<h3 align="center">📚 Experience 📚</h3>
+<p><h3 align="center">📚 Experience 📚</h3>
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
   2022.10 - 2023.03
+</p><br/>
 
-<h3 align="center">📌 contact to me 📌</h3>
+
+  <h3 align="center">📌 contact to me 📌</h3>
 <a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kwma0820@gmail.com)

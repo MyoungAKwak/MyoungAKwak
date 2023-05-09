@@ -1,18 +1,14 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MyoungaKwak&fontSize=90&)
+
 ### <h3 align="center"> Hi! I'm MyoungA 👋 </h3>
 <br/>
 
 <div align="center">
-<h3 align="center">📌 my study space 📌</h3>
+<h3>📌 my study space 📌</h3>
 
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> [Study Link](https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152)
-
-  
-<!-- 
-<a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>   
-<br/> -->
-<br/>
   
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -45,11 +41,9 @@
   2022.10 - 2023.03
 </div>
 
+
+
 <!--  
-
 <h3 align="center"> contact to me </h3>
-
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kwma0820@gmail.com)
-
  -->

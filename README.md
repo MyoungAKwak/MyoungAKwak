@@ -16,7 +16,7 @@
  
 ## 📚 Experience 📚
  <div style="display:flex; flex-direction:row;">
-대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
+대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성]<br>
   2022.10 - 2023.03
  </div>
  <br>

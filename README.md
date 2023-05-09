@@ -45,7 +45,7 @@
 <br>
 </div>
  
- ## 🛒 오늘의 꽃 프로젝트 → [flower_project](https://github.com/MyoungAKwak/FlowerShop)
+ ## 🛒 쇼핑몰 프로젝트 → [flower_project](https://github.com/MyoungAKwak/FlowerShop)
  <div style="display:flex; flex-direction:row;">
     
 ![쇼핑몰 메인](https://user-images.githubusercontent.com/114054982/237057338-21cf62b6-68ea-409a-b500-7b04288d00f7.jpg)

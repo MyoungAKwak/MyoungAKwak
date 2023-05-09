@@ -47,6 +47,9 @@
  
  ## Project
  <div style="display:flex; flex-direction:row;">
+    
+![쇼핑몰 메인](https://user-images.githubusercontent.com/114054982/237057338-21cf62b6-68ea-409a-b500-7b04288d00f7.jpg)
+    
   
  ### 사용 기술
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">

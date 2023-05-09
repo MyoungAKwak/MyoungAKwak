@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeln&fontAlignY=38&desc=MyoungA%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+<div align="left">
+ 
+
+
 ### <h3> Hi! I'm MyoungA 👋 </h3>
 <br/>
 
@@ -13,7 +17,7 @@
   
 
   
-<h3>🛠 Tech Stack 🛠</h3>
+## 🛠 Tech Stack 🛠
 <div style="display:flex; flex-direction:row;">
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
@@ -37,8 +41,13 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </p>
 <br>
+</div>
 
-<h3>📚 Experience 📚</h3>
+
+## 📚 Experience 📚
+<div style="display:flex; flex-direction:row;">
 대전 아이티스쿨 정보보호교육원 [자바(JAVA)기반 웹&앱 개발자 양성] 수료<br>
   2022.10 - 2023.03
 
+ </div>
+ </div>

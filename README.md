@@ -9,7 +9,7 @@
   
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://like-christmas-980.notion.site/Study-Space-e8c83358798248ec87afa52ff60f9152?source=copy_link">
+    <a href="https://www.notion.so/2aefa23f6a4e8091bf54fb38f364c9ac?source=copy_link">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>  
 <br>
